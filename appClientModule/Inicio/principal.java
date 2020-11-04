@@ -4,7 +4,7 @@ package Inicio;
 public class principal {
 	public static void main(String[] args) {
 
-		System.out.println("Hola Mundo");
+		System.out.println("Hola Mundo.");
 
 		String[] phoneln = {"1","2","3"};
 
